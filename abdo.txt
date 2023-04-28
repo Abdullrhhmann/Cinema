@@ -1,0 +1,8 @@
+MOVIE :           Fight Club
+SEAT :    f6  
+NAME :           abdo
+TOTAL :           270-EURO !!
+TIME :     9-PM
+SCREEN :     2 
+DATE :      31/12/2022
+SNACK : Le-Grand-Lux
